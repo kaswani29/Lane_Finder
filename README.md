@@ -66,3 +66,8 @@ Jupyter is an ipython notebook where you can run blocks of code and see results 
 
 A browser window will appear showing the contents of the current directory.  Click on the file called "P1.ipynb".  Another browser window will appear displaying the notebook.  Follow the instructions in the notebook to complete the project.  
 
+** Files **
+Use the Lane_detection ipython files for more details. Input videos used in the poject are: solidWhiteRight.mp4 and solidYellowLeft.mp4. The output after lane detection is in videos white.mp4 and yellow.mp4
+
+** Result**
+You can directly download and view white.mp4 and yellow.mp4 to get the idea of how output looks like.
